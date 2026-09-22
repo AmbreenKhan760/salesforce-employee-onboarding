@@ -118,3 +118,19 @@ This project was created as part of my Salesforce portfolio to demonstrate the d
 ### Employee Onboarding Access Automation Flow
 
 ![Employee Onboarding Access Automation Flow](screenshots/Screenshot%202026-09-21%20113615.png)
+
+### Validation Rule – Approval Required for Completion
+
+![Validation Rule](screenshots/Screenshot%202026-09-21%20113837.png)
+
+### Permission Set Security
+
+![Permission Set Security](screenshots/Screenshot%202026-09-21%20114308.png)
+
+### Validation Rule Test
+
+![Validation Rule Test](screenshots/Screenshot%202026-09-21%20114719.png)
+
+### Privileged Access Automation Test
+
+![Privileged Access Automation Test](screenshots/Screenshot%202026-09-21%20114927.png)
