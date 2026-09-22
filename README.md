@@ -108,3 +108,9 @@ Tested multiple business scenarios including:
 ## Purpose
 
 This project was created as part of my Salesforce portfolio to demonstrate the design and implementation of a realistic employee onboarding and access management process using Salesforce declarative tools.
+
+## Screenshots
+
+### Employee Onboarding Dashboard
+
+![Employee Onboarding Dashboard](screenshots/Screenshot%202026-09-22%20095719.png)
