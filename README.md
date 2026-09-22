@@ -114,3 +114,7 @@ This project was created as part of my Salesforce portfolio to demonstrate the d
 ### Employee Onboarding Dashboard
 
 ![Employee Onboarding Dashboard](screenshots/Screenshot%202026-09-22%20095719.png)
+
+### Employee Onboarding Access Automation Flow
+
+![Employee Onboarding Access Automation Flow](screenshots/Screenshot%202026-09-21%20113615.png)
